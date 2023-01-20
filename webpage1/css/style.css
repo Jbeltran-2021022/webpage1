@@ -1,0 +1,13 @@
+body {
+    background-color: azure;
+}
+.title{
+    font-size: 90px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#texto{
+    color: rgb(29, 55, 255);
+}
+.h1{
+    text-align: center;
+}
